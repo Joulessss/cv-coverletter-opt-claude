@@ -1,0 +1,14 @@
+# Outputs generados (CVs, cartas, etc.) — no versionar datos personales
+*.docx
+out/
+output/
+outputs/
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+# Python
+__pycache__/
+*.pyc
