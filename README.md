@@ -5,6 +5,11 @@ A [Claude Skill](https://www.anthropic.com/news/skills) that turns a generic ré
 Built with the `skill-creator` workflow. Author: **Juliana Quintana Rojas**. Licensed under MIT.
 
 ---
+## How to install 
+```
+claude skill install https://github.com/Joulessss/cv-coverletter-opt-claude/raw/main/cv-coverletter-optimizer.skill
+```
+
 
 ## What it does
 
