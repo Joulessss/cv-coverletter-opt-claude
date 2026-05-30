@@ -57,3 +57,18 @@ Note how each names the **tool/method**, the **scope/scale**, and a **result**. 
 
 ## Academic CV ordering
 For Master's/PhD applications, order sections: Summary/Research Interests → Education → Research Experience → Publications & Preprints → Conference/Talks → Teaching → Technical Skills → Awards. Publications and research come *before* generic work history. Master's-level: if few publications, lead with research projects, thesis, and relevant coursework instead.
+
+## Spanish CVs — action-noun form (NOT conjugated verbs)
+
+In Spanish-language CVs, bullets use the action-noun (or impersonal) form, not a conjugated past-tense verb. Conjugated verbs read as third-person narration and are stylistically wrong on a CV.
+
+**Wrong (conjugated):** Desarrolló un pipeline ETL en Python que procesó 2M de registros al día.
+**Right (action-noun):** Desarrollo de un pipeline ETL en Python para el procesamiento de 2M de registros diarios, reduciendo el tiempo de espera de 6 h a menos de 15 min.
+
+**Wrong:** Lideró sesiones de laboratorio para 60 estudiantes.
+**Right:** Liderazgo de sesiones de laboratorio para 60 estudiantes de posgrado; rediseño de talleres que elevó la mediana de notas 12 puntos interanual.
+
+**Wrong:** Implementó un modelo de churn con XGBoost.
+**Right:** Implementación de un modelo de churn (XGBoost, AUC 0.89) que identificó cuentas en riesgo 30 días antes, informando estrategias de retención sobre una base de 40k clientes.
+
+Common openers: Desarrollo de, Diseño de, Implementación de, Ejecución de, Liderazgo de, Optimización de, Construcción de, Análisis de, Coordinación de, Validación de, Caracterización de, Automatización de. Match the document language to what the posting/call expects.
